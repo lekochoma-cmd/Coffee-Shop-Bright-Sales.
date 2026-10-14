@@ -15,17 +15,29 @@ historical data and prepare a presentation to assist the CEO in decision-making.
 
 +During my data expropriation and analysis i was tasked with ensuring i provide key insights on trends in the 3 Coffee Shops(Astoria, Hell's Kitchen and Lower Manhattan).
 
+
 -Which products generate the most revenue (Coffee).
+
 -What time of day the store performs best (Morning).
+
 -Sales trends across products and time intervals( Weekdays are the most productive).
+
 - Total Revenue over 6 months of data equaled R698 812.33.
+  
 - Hell's Kitchen is the top performing store in sales.
+  
 - Lower Manhattan is the lowest performing store by sales.
+  
 - Sales Increased by over 50% over the 6 months data has been provided from Jan-June 2023.
+  
 - Best selling product types;
+  
 - Barista Expresso R91406.20
+  
 -Brewed Chai Tea R77 081.95
+
 -Gourmet Brewed Coffee R 70 034.60
+
 -Hot Chocolate R72 416
 
  

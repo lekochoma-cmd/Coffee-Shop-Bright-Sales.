@@ -35,18 +35,18 @@ historical data and prepare a presentation to assist the CEO in decision-making.
 +Power BI Dashboard interaction.
 
 +Recommendations
--To improve overall sales for the business and 
+.To improve overall sales for the business and 
  improve the ‘Bottom-line’ We recommend increased social media present.
--Attract health conscious clients by promotional discount of low-perfoming products such as ; Chai tea , Blacl tea and Green tea to boost sales.
--Focus more on promoting sales in Lower Manhattan through in store specials on products such as scone, tea and sugar free syrup, to attract more clients in store
--Increasing staff during Mid Morning rush in order maintain excellence customer service during peak time of business and save for when less staff is required.
+.Attract health conscious clients by promotional discount of low-perfoming products such as ; Chai tea , Blacl tea and Green tea to boost sales.
+.Focus more on promoting sales in Lower Manhattan through in store specials on products such as scone, tea and sugar free syrup, to attract more clients in store
+.Increasing staff during Mid Morning rush in order maintain excellence customer service during peak time of business and save for when less staff is required.
 
 +Implementations
--Conduct a continuous visualization of data on Power BI in order to give real time feedback on sales and other related statistics to monitor progress as it happens.
--Perform a “Deep Dive” data analytics on information to gain even more insights and improve revenue.
--Collaborate with other stakeholder in the industry and value chain to gain more insights on clients behavior and implement best practice to improve revenue.
--Implement staff training especially in locations not performing, to improve customer experience and also encourage clients who visit stores to rate service through a digital dashboard.
--Perform an analysis on the cost and benefit of introducing a Delivery Service platform in order to attract new clients who otherwise don't prefer visiting our stores.
+.Conduct a continuous visualization of data on Power BI in order to give real time feedback on sales and other related statistics to monitor progress as it happens.
+.Perform a “Deep Dive” data analytics on information to gain even more insights and improve revenue.
+.Collaborate with other stakeholder in the industry and value chain to gain more insights on clients behavior and implement best practice to improve revenue.
+.Implement staff training especially in locations not performing, to improve customer experience and also encourage clients who visit stores to rate service through a digital dashboard.
+.Perform an analysis on the cost and benefit of introducing a Delivery Service platform in order to attract new clients who otherwise don't prefer visiting our stores.
 
 
 

@@ -13,7 +13,7 @@ historical data and prepare a presentation to assist the CEO in decision-making.
 #Objective
 
 
-+During my data expropriation and analysis i was tasked with ensuring i provide key insights on trends in the 3 Coffee Shops(Astoria, Hell's Kitchen and Lower Manhattan).
++During my data expropriation and analysis i was tasked with ensuring i provide key insights on trends in the three(3) Coffee Shops(Astoria, Hell's Kitchen and Lower Manhattan).
 
 
 -Which products generate the most revenue (Coffee).
